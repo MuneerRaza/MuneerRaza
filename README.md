@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MuneerRaza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=AI+Software+Engineer;Building+Autonomous+AI+Agents;Computer+Vision+%7C+NLP+%7C+Agentic+AI;Published+RADAR-Net+at+IACMC+2025;Training%2C+Deploying+%26+Monitoring+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=AI+Software+Engineer;Building+Autonomous+AI+Agents;Computer+Vision+%7C+NLP+%7C+Agentic+AI;Published+RADAR-Net+at+IACMC+2025;Training%2C+Deploying+%26+Monitoring+AI+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -60,10 +60,10 @@
 **Frameworks & Backend**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pydantic/pydantic-original.svg" alt="Pydantic" width="40" height="40"/>
+`Pydantic`
 
 **Databases & Infrastructure**
 
