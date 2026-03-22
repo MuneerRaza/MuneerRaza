@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MuneerRaza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=AI+Software+Engineer;Building+Autonomous+AI+Agents;Computer+Vision+%7C+NLP+%7C+Agentic+AI;Published+RADAR-Net+at+IACMC+2025;Training%2C+Deploying+%26+Monitoring+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=650&lines=AI+Software+Engineer;Building+Autonomous+AI+Agents;Computer+Vision+%7C+NLP+%7C+Agentic+AI;Published+RADAR-Net+at+IACMC+2025;Training%2C+Deploying+%26+Monitoring+AI+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,11 +44,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/ultralytics.svg" alt="Ultralytics" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Ultralytics-071D49?style=for-the-badge&logo=ultralytics&logoColor=white" alt="Ultralytics"/>
 
 **LLM & Agents**
 
-`LangChain` `LangGraph` `LlamaIndex` `Ollama` `vLLM` `Exllama` `Pydantic AI` `spaCy`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6F42C1?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=for-the-badge&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-4B0082?style=for-the-badge&logoColor=white)
+![Exllama](https://img.shields.io/badge/Exllama-333?style=for-the-badge&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 **Languages**
 
@@ -60,10 +67,10 @@
 **Frameworks & Backend**
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>&nbsp;
-`Pydantic`
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
 
 **Databases & Infrastructure**
 
