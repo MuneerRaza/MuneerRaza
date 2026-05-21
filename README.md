@@ -24,12 +24,11 @@
 
 ## Featured Projects
 
-<a href="https://github.com/MuneerRaza/archiva-ai"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MuneerRaza&repo=archiva-ai&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true" alt="archiva-ai"></a>
-<a href="https://github.com/MuneerRaza/intelliflow-ai"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MuneerRaza&repo=intelliflow-ai&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true" alt="intelliflow-ai"></a>
-<a href="https://github.com/MuneerRaza/CognifootAI"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MuneerRaza&repo=CognifootAI&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true" alt="CognifootAI"></a>
-<a href="https://github.com/MuneerRaza/accounting_ai"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MuneerRaza&repo=accounting_ai&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true" alt="accounting_ai"></a>
-<a href="https://github.com/MuneerRaza/Gray2Color_AE"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MuneerRaza&repo=Gray2Color_AE&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true" alt="Gray2Color_AE"></a>
-<a href="https://github.com/MuneerRaza/cs-ai-interview-curriculum"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MuneerRaza&repo=cs-ai-interview-curriculum&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true" alt="cs-ai-interview-curriculum"></a>
+| | |
+|:--|:--|
+| **[Archiva AI](https://github.com/MuneerRaza/archiva-ai)**<br><sub>Document-reasoning agent with no embeddings and no vector database.</sub><br>`FastAPI` `Supabase` `Pydantic AI` | **[IntelliFlow AI](https://github.com/MuneerRaza/intelliflow-ai)**<br><sub>Multi-agent orchestration platform with dynamic routing and parallel pipelines.</sub><br>`LangGraph` `FastAPI` `Qdrant` |
+| **[CognifootAI](https://github.com/MuneerRaza/CognifootAI)**<br><sub>Diabetic foot ulcer detection (FYP), 98% accuracy with explainable AI.</sub><br>`PyTorch` `Explainable AI` | **[Accounting AI](https://github.com/MuneerRaza/accounting_ai)**<br><sub>Cross-platform app extracting invoice data via OCR and LLM-based NER.</sub><br>`Flutter` `OCR` `LLM` |
+| **[Gray2Color AE](https://github.com/MuneerRaza/Gray2Color_AE)**<br><sub>Transformer autoencoder that colorizes grayscale images.</sub><br>`PyTorch` `Transformers` | **[CS / AI Interview Curriculum](https://github.com/MuneerRaza/cs-ai-interview-curriculum)**<br><sub>Structured curriculum for CS and AI interview preparation.</sub><br>`Curriculum` `Resources` |
 
 &nbsp;
 
