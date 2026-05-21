@@ -1,10 +1,11 @@
 <p align="center">
   <a href="https://github.com/MuneerRaza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=650&lines=AI+Software+Engineer;Building+Autonomous+AI+Agents;Computer+Vision+%7C+NLP+%7C+Agentic+AI;Published+RADAR-Net+at+IACMC+2025;Training%2C+Deploying+%26+Monitoring+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer+at+REDLUMB;Building+Agentic+AI+Workflows;LLM+Inference+%26+Multi-Agent+Systems;Published+RADAR-Net+at+IACMC+2025" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://muneerraza.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
   <a href="https://linkedin.com/in/muneer-raza-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:muneer.raza098@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://github.com/MuneerRaza"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -14,11 +15,12 @@
 
 ## About Me
 
-- Associate ML Engineer at **Softec Worldwide**, building multi-agent systems and LLM pipelines
-- Published **RADAR-Net** at IACMC 2025 — a diffusion-transformer model for image restoration
-- BS in Artificial Intelligence from **FAST-NUCES** — CGPA 3.60, Cum Laude, ranked 3rd in batch
-- Won **AI FEST 4.0 ML/DS**, Runner-Up at Developer's Day, 3rd at Softec AI
-- Building **Archiva AI** — an AI agent that reasons over documents without embeddings
+- AI Engineer at **REDLUMB**, building agentic AI workflows into mobile apps
+- Previously Associate ML Engineer at **Softec Worldwide**, building multi-agent systems and deploying LLMs
+- Published **RADAR-Net** at IACMC 2025, a diffusion-transformer model for image restoration
+- BS in Artificial Intelligence from **FAST-NUCES** (CGPA 3.60, Cum Laude, ranked 3rd in batch)
+- Won **AI FEST 4.0 ML/DS**; Runner-Up at Developer's Day; 3rd at Softec AI
+- Focused on LLM inference, agentic systems, and production AI infrastructure
 
 &nbsp;
 
